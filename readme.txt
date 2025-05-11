@@ -18,13 +18,3 @@ This project supports **multiple users**, **book categories**, **book availabili
 
 - Python 3
 - JSON for file-based data storage
-
----
-
-## 🧪 How to Run
-
-1. **Clone the Repository**
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
