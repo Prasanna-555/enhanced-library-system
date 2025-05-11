@@ -1,0 +1,77 @@
+📚 Library Menu:
+1. Add Book
+2. Display Books
+3. Borrow Book
+4. Return Book
+5. Exit
+Enter your choice: 1
+Enter book title: maths
+Enter book category (Fiction, Science, etc.): mathematics
+Enter number of copies: 4
+📖 Added "maths" under "mathematics" with 4 copies.
+
+📚 Library Menu:
+1. Add Book
+2. Display Books
+3. Borrow Book
+4. Return Book
+5. Exit
+Enter your choice: 1
+Enter book title: java textbook
+Enter book category (Fiction, Science, etc.): programming
+Enter number of copies: 5
+📖 Added "java textbook" under "programming" with 5 copies.
+
+📚 Library Menu:
+1. Add Book
+2. Display Books
+3. Borrow Book
+4. Return Book
+5. Exit
+Enter your choice: 2
+
+📖 Available Books:
+ - maths (mathematics) - 4 copies
+ - java textbook (programming) - 5 copies
+
+📚 Library Menu:
+1. Add Book
+2. Display Books
+3. Borrow Book
+4. Return Book
+5. Exit
+Enter your choice: 3
+Enter your name: maths
+Enter book name to borrow: maths
+✅ maths borrowed "maths".
+
+📚 Library Menu:
+1. Add Book
+2. Display Books
+3. Borrow Book
+4. Return Book
+5. Exit
+Enter your choice: 3
+Enter your name: prasanna
+Enter book name to borrow: python
+❌ Sorry, "python" is not available.
+
+📚 Library Menu:
+1. Add Book
+2. Display Books
+3. Borrow Book
+4. Return Book
+5. Exit
+Enter your choice: 4
+Enter your name: maths
+Enter book name to return: maths
+🔄 maths returned "maths".
+
+📚 Library Menu:
+1. Add Book
+2. Display Books
+3. Borrow Book
+4. Return Book
+5. Exit
+Enter your choice: 5
+📚 Exiting the Library System. Goodbye! 👋

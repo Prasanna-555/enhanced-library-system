@@ -1,0 +1,4 @@
+📦 your-repo-name
+ ┣ 📄 library.py         # Main program
+ ┣ 📄 library_data.json  # Auto-generated: Stores persistent data
+ ┗ 📄 README.md          # Project documentation
